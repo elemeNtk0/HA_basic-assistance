@@ -1,2 +1,9 @@
 # HA_basic-assistance
-HTML Academy basic-assistance for students in intensive
+*Помощь для студентов HTMLAcademy базового интенсива*
+
+# FAQ 
+<a href="/FAQ/">Раздел</a> — ФАК он и в Африке ФАК (пополняемый).
+
+# Useful-links
+Полезные ссыки. 
+
